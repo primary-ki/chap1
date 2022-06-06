@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 90%;
+  padding: 20px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header .heading {
+  font-size: 32px;
+}
+
+.nav-list {
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.main {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto;
+}
+
+.green1,.green2,.green3,.green4,.yellow1,.yellow2,
+.yellow3,.yellow4,.blue1,.blue2,.blue3,.blue4 {
+  width: 200px;
+  height: 200px;
+}
+
+.green1 {
+  background-color: #e6ffe9;
+}
+
+.green2 {
+  background-color: #cbffd3;
+}
+
+.green3 {
+  background-color: #aeffbd;
+}
+
+.green4 {
+  background-color: #93ffab;
+}
+
+.yellow1 {
+  background-color: #f3ffd8;
+}
+
+.yellow2 {
+  background-color: #edffbe;
+}
+
+.yellow3 {
+  background-color: #e9ffa5;
+}
+
+.yellow4 {
+  background-color: #e4ff8d;
+}
+
+.blue1 {
+  background-color: #d9e5ff;
+}
+
+.blue2 {
+  background-color: #bad3ff;
+}
+
+.blue3 {
+  background-color: #a4c6ff;
+}
+
+.blue4 {
+  background-color: #8ab8ff;
+}
+
+footer {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+  line-height: 150px;
+  background-color: #848282;
+}
