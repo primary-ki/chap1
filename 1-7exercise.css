@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 400px;
+  background-image: url(1-7excercise-img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-content {
+  width: 200px; 
+  height: 100px; 
+  padding: 20px;
+  background-color: rgba(0,0,0,0);
+}
+
+.main-visual-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.blog-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid rgb(218, 204, 204);
+}
+
+.blog-image {
+  width: 200px;
+}
