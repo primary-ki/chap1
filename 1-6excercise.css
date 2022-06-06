@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.visual1 {
+  height: 200px;
+  background-image: url(1-6excercise-img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.visual2 {
+  height: 200px;
+  background-image: url(1-6excercise-img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.visual3 {
+  height: 200px;
+  background-image: url(1-6excercise-img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.visual4 {
+  height: 200px;
+  background-image: url(1-6excercise-img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
