@@ -1,0 +1,9 @@
+.position {
+  position: absolute;
+  top: 100px;
+  right: 40px;
+}
+
+.position i {
+  font-size: 32px;
+}
